@@ -1,0 +1,38 @@
+.profile {
+    display: flex;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(233, 233, 233);
+}
+
+#list .profile:last-of-type {
+    margin-bottom: 0;
+}
+
+p {
+    margin: 0;
+}
+
+.profile-picture {
+    height: 80px;
+    width: 60px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.character-seasons {
+    margin-top: auto;
+}
+
+.character-birthday {
+    
+    color: rgb(192, 192, 192);
+    font-size: 0.9rem;
+}
+
+.content {
+    padding-left: 10px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}

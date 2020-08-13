@@ -1,0 +1,7 @@
+#list {
+    max-width: 600px;
+    border-radius: 10px;
+    border: 1px solid rgb(232 232 232);
+    margin: 15px auto 0 auto;
+    padding: 15px 15px 0 15px;
+}

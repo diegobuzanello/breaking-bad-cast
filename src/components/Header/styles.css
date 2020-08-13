@@ -1,0 +1,10 @@
+header {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+header img{
+    max-width: 130px;
+    width: 100%;
+}
