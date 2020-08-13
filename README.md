@@ -10,8 +10,8 @@ API utilizada: [Breaking Bad API](https://breakingbadapi.com/documentation)
 ## Passo a passo
 
 Instala as dependências.
-### `yarn install`
+`yarn install`
 
 Inicia o projeto.
-### `yarn start`
+`yarn start`
 
