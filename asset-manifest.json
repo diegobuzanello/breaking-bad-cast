@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.1725e046.chunk.css",
-    "main.js": "/static/js/main.8be3fb9e.chunk.js",
-    "main.js.map": "/static/js/main.8be3fb9e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f454de49.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f454de49.js.map",
-    "static/js/2.37433752.chunk.js": "/static/js/2.37433752.chunk.js",
-    "static/js/2.37433752.chunk.js.map": "/static/js/2.37433752.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2ff2881f7152b799c08f648dc127402e.js": "/precache-manifest.2ff2881f7152b799c08f648dc127402e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.1725e046.chunk.css.map": "/static/css/main.1725e046.chunk.css.map",
-    "static/js/2.37433752.chunk.js.LICENSE.txt": "/static/js/2.37433752.chunk.js.LICENSE.txt",
-    "static/media/breaking-bad-logo.png": "/static/media/breaking-bad-logo.82875518.png",
-    "static/media/search.f62d4aa0.svg": "/static/media/search.f62d4aa0.svg"
+    "main.css": "/breaking-bad-cast/static/css/main.1725e046.chunk.css",
+    "main.js": "/breaking-bad-cast/static/js/main.8be3fb9e.chunk.js",
+    "main.js.map": "/breaking-bad-cast/static/js/main.8be3fb9e.chunk.js.map",
+    "runtime-main.js": "/breaking-bad-cast/static/js/runtime-main.42f023f3.js",
+    "runtime-main.js.map": "/breaking-bad-cast/static/js/runtime-main.42f023f3.js.map",
+    "static/js/2.fb022a14.chunk.js": "/breaking-bad-cast/static/js/2.fb022a14.chunk.js",
+    "static/js/2.fb022a14.chunk.js.map": "/breaking-bad-cast/static/js/2.fb022a14.chunk.js.map",
+    "index.html": "/breaking-bad-cast/index.html",
+    "precache-manifest.815c3d4539ee0ecb330d780e661a6baa.js": "/breaking-bad-cast/precache-manifest.815c3d4539ee0ecb330d780e661a6baa.js",
+    "service-worker.js": "/breaking-bad-cast/service-worker.js",
+    "static/css/main.1725e046.chunk.css.map": "/breaking-bad-cast/static/css/main.1725e046.chunk.css.map",
+    "static/js/2.fb022a14.chunk.js.LICENSE.txt": "/breaking-bad-cast/static/js/2.fb022a14.chunk.js.LICENSE.txt",
+    "static/media/breaking-bad-logo.png": "/breaking-bad-cast/static/media/breaking-bad-logo.82875518.png",
+    "static/media/search.f62d4aa0.svg": "/breaking-bad-cast/static/media/search.f62d4aa0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f454de49.js",
-    "static/js/2.37433752.chunk.js",
+    "static/js/runtime-main.42f023f3.js",
+    "static/js/2.fb022a14.chunk.js",
     "static/css/main.1725e046.chunk.css",
     "static/js/main.8be3fb9e.chunk.js"
   ]
