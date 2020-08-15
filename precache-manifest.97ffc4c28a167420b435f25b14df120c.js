@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4f36fbd33ee13cb386721429bd8bdea",
+    "revision": "79d25904b5f550e6a64fc2d4125f0453",
     "url": "/breaking-bad-cast/index.html"
   },
   {
-    "revision": "63f7e78f18edbeae98dd",
+    "revision": "e2c292896c8a16ce02ea",
     "url": "/breaking-bad-cast/static/css/main.1725e046.chunk.css"
   },
   {
-    "revision": "6c2d32419128ade80154",
-    "url": "/breaking-bad-cast/static/js/2.fb022a14.chunk.js"
+    "revision": "2ee22ad6e1b7121411b3",
+    "url": "/breaking-bad-cast/static/js/2.1cc31126.chunk.js"
   },
   {
     "revision": "216e537bacc64f9dbaabd26649a9ab95",
-    "url": "/breaking-bad-cast/static/js/2.fb022a14.chunk.js.LICENSE.txt"
+    "url": "/breaking-bad-cast/static/js/2.1cc31126.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63f7e78f18edbeae98dd",
-    "url": "/breaking-bad-cast/static/js/main.8be3fb9e.chunk.js"
+    "revision": "e2c292896c8a16ce02ea",
+    "url": "/breaking-bad-cast/static/js/main.7bfed869.chunk.js"
   },
   {
     "revision": "11a75ec2ece2498e1143",
