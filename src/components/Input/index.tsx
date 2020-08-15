@@ -1,12 +1,16 @@
-import React, { useState } from 'react';
+import React, { useState, FormEvent } from 'react';
 import './styles.css';
 
 import {ReactComponent as SearchIcon} from '../../assets/search.svg';
 
-const Input = ({ getInput }: any[string]) => {
-    const [text, setText] = useState('')
+interface Input {
+    getInput(text: string): void;
+}
 
-    async function searchCharacter(e: any) {
+const Input: React.FC<Input> = ({ getInput }) => {
+    const [text, setText] = useState('');
+
+    async function searchCharacter(e: FormEvent) {
         e.preventDefault();
 
         setText(text);
@@ -28,7 +32,6 @@ const Input = ({ getInput }: any[string]) => {
                     <SearchIcon />
                 </button>
             </form>
-            
         </div>
     );
 }
